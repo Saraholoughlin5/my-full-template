@@ -15,4 +15,4 @@ Content, styling and file management are key tools that will help me with future
 
 ## Technology used
 
-HTML and CSS were used alongside Bash commands. Files are committed to a Github repository and the site is hosted on Git Pages.
+HTML and CSS were used alongside Bash commands in the Gitpod terminal (Command Line Interface). Files are committed to a Github repository and the site is hosted on Git Pages.
